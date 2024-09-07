@@ -1,0 +1,94 @@
+#navbar {
+  height: 60px;
+  background-color: black;
+}
+button {
+  color: black;
+  background-color: rgb(211, 122, 20);
+  display: inline;
+}
+#logo {
+  font-size: 25px;
+  color: orange;
+  display: inline;
+}
+p {
+  color: white;
+  margin-right: 200px;
+  text-decoration: none;
+  display: inline;
+}
+
+.contentBox1 {
+  color: white;
+  background-image: url(prime.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.contentBox2 {
+  background-image: url(home.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.contentBox3 {
+  color: white;
+  background-image: url(appliances.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: inline-block;
+}
+#content {
+  margin-top: 10px;
+  height: 650px;
+}
+footer {
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+#first{
+  color: black;
+  display: inline;
+  height: 10px;
+  width: 50px;
+  margin-left: 0px;
+  text-decoration: bolder;
+ 
+}
+a{
+  color: black;
+  display: inline;
+  height: 10px;
+  width: 50px;
+  text-decoration: bolder;
+  margin-left:10%;
+  margin-top:100px ;
+
+}
+.contentbox3{
+  color: white;
+  background-image: url(appliances.jpg); 
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.contentbox4{
+  color: rgb(111, 14, 14);
+  background-color: cadetblue;
+  background-image: url(appliances.jpg);
+  background-size:contain;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  
+}
